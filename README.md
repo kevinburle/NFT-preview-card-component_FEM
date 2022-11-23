@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](screenshots/nfr-preview-card-component-screenshot.jpg.jpg)
+![](screenshots/nfr-preview-card-component-screenshot.jpg)
 
 ## My process
 
